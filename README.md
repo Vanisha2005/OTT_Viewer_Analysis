@@ -10,6 +10,8 @@ The dataset was sourced from Kaggle - Movies and TV Shows on Netflix, Prime, Hul
 
 Real-world data cleaning and preprocessing using Pandas
 
+How to combine multiple CSV files into a single cohesive DataFrame
+
 Creating insightful visualizations using Seaborn and Matplotlib
 
 Using groupby, merge, filtering, and lambda functions to handle multi-platform data
